@@ -9,3 +9,5 @@
 ### Update db.js file
 
 1. Update to 'meal-tracker-fsa-db'
+2. Convert into json format and load Db
+3. Use MongoDb Data Utility
